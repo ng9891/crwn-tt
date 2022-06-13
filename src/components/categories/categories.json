@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Rubbers",
+    "imgURL": "../../assets/images/rubber.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Blades",
+    "imgURL": "../../assets/images/paddle.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Accesories",
+    "imgURL": "../../assets/images/acc.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Tables",
+    "imgURL": "../../assets/images/table.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Clothing",
+    "imgURL": "../../assets/images/clothing.jpg"
+  }
+]

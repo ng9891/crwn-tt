@@ -1,0 +1,13 @@
+.categories{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-inline: min(50px, 2%);
+  gap: 0.7rem;
+
+  @media only screen and (min-width: 760px) {
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+}
